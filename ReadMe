@@ -1,0 +1,5 @@
+npm init
+install dependencies
+Set up mongoose server: "mongod", "mongo"
+
+start server: nodemon/node app.js
